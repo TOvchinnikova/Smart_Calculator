@@ -11,10 +11,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
             <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
             <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
             <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Hello, Kotlin" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Theory" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
@@ -24,6 +29,7 @@
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Reversed output" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Four numbers" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />

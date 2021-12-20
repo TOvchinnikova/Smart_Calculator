@@ -10,5 +10,4 @@ fun main() {
     println(b)
     println(c)
     println(d)
-
 }
