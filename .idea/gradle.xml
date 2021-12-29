@@ -48,12 +48,17 @@
             <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Cutting the fraction" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Lie detector" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Simple converter" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Fix the program" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/val or var" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
