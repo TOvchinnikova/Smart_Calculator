@@ -34,6 +34,7 @@
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Fix the input" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Read a Double" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Reversed output" />
@@ -50,6 +51,11 @@
             <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
             <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
             <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Repetitions and templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Cutting the fraction" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Lie detector" />
             <option value="$PROJECT_DIR$/Topics/Type conversion/Simple converter" />
