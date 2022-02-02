@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Topics/Comments/Hello, Kotlin" />
             <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
             <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
             <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
@@ -77,6 +78,10 @@
             <option value="$PROJECT_DIR$/Topics/Values and variables/val or var" />
             <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
             <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The first position of the largest element" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The largest element" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
